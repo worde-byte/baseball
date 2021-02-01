@@ -5,7 +5,7 @@ overlap = 0
 total_overlap = 0
 numbers = []
 j = 0
-while j<100:
+while j<100000:
     while i<26:
         a = round(random()*100)
         if a != 100:
